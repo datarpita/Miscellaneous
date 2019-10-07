@@ -1,0 +1,77 @@
+Time-boxed events are events that have a maximum duration.
+
+A new Sprint starts immediately after the conclusion of the previous Sprint.
+
+Optimal Development Team size is small enough to remain nimble and large enough to complete significant work. Fewer than three Development Team members decreases interaction and results in smaller productivity gains. More than nine members simply requires too much coordination.
+
+The Product Owner is responsible for maximizing the value of the product and the work of the Development Team.
+
+Only the people doing the work described on the Sprint Backlog need to inspect and adapt at the Daily Scrum. If the Scrum Master or Product Owner is also on the Development Team, they will need to be at the Daily Scrum. Otherwise, the Scrum Master simply has to make sure the Development Team knows how to conduct a Daily Scrum and does so.
+
+Scrum is not a process or a technique for building products; rather, it is a framework within which you can employ various processes and techniques.
+
+If the definition of "done" is part of the conventions, standards or guidelines of the development organization, all Scrum Teams must follow it as a minimum. The Development Team of the Scrum Team can complement it with elements specific for the product or context.
+If "done" for an increment is not a convention of the development organization, the Development Team of the Scrum Team must define a definition of "done" appropriate for the product.
+
+The product owner must join the sprint restrospective
+
+The scrum master amy not facilitate the daily scrum
+
+The sprint backlog must be detailed enough that the changes in progress can be understood in the daily scrum call
+
+The result of sprint review is a revised product backlog that provides the product backlog items for the next sprint
+
+The development team and not scrum team can change the sprint backlog during a sprint
+
+The cone of uncertainty shows how much is known about the product over time
+
+A new sprint begins immediately after the conclusion of previous sprint
+
+The burn-up chart shows whether there is any change in the total story points which the burn down chart does not show.
+
+Lean development can be summarized by seven principles, very close in concept to lean manufacturing principles:
+
+Eliminate waste, Amplify learning, Decide as late as possible, Deliver as fast as possible, Empower the team, Build integrity in & See the whole
+
+ADAPT: Awareness, Desire, Ability, Promote, and Transfer. As there are some pilot team and they coached by external scrum coaches and started developing expertise so the organization already gone through Awareness and Desire state and now in Ability stage.
+
+Rest of the options are characteristic of a defined process. We apply empirical process control where underlying mechanisms are not well defined.
+
+Only the 100% “Done” items are to be demonstrated; even the 99.999% done items should not be presented to the customer.
+
+The MoSCoW method is a prioritization technique used in management, business analysis, project management, and software development to reach a common understanding with stakeholders on the importance they place on the delivery of each requirement; it is also known as MoSCoW prioritization or MoSCoW analysis.
+
+The term MoSCoW itself is an acronym derived from the first letter of each of four prioritization categories (Must have, Should have, Could have, and Won’t have), with the interstitial Os added to make the word pronounceable. While the Os are usually in lower-case to indicate that they do not stand for anything, the all-capitals MOSCOW is also used.
+
+Net present value, internal rate of return, and payback period are three major factors to consider when ordering the product backlog on financial factors. Payback period, the time when the organization will start earning positively from the investment. Payback Period calculation is straightforward and it measures the amount and duration of financial risk taken on by the organization.
+
+The scrum of scrum of scrums is a sync up meeting to co-ordinate the work of multiple scrum teams working on a large product
+
+It is the responsibility of the product owner to optimize the work the development team does as well as maximizing the value of the product
+
+The product owner should know the most about the progress towards a business objective or rlease and be able to explain the alternatives most clearly
+
+The scrum artifacts are Product Backlog, Sprint Backlog and Increment
+
+The product owner is responsible for monitoring the progress towards goal
+
+The development team is responsible for tracking the total work reamining in sprint backlog to project the likelihoof of achieving the sprint goal
+
+Awareness is important in ADAPT because only early successes will build momentum and get others to follow
+
+Kanban is not an iterative methodolgy as its about improving the flow and managing the work
+using pull based management system. There is no notion of iteration in a Kanban system
+
+A sprint planning meeting cannot happen in the absence of a product owner
+
+A story map is priority of a story (y axis) Vs time (x axis)
+
+Ordring product bakclog items by value points in a good practice keeping in mind that the market reception is the best measure of the value
+
+Pair programming in Agile is when two programmer shares the same workstation. One writes code and other reviews it and this role can be switched.
+
+Scrum artifacts are Product Backlog, sprint backlog and increment (not sprint goal)
+
+The team model in scrum is designed to optimize flexibility, productivity and creativity
+
+DoD helps in Artifcats transparency and not Inspection or adaptation
